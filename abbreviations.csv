@@ -1,0 +1,24 @@
+abbr, full
+ABSA, Aspect-Based Sentiment Analysis
+ABSC, Aspect-Based Sentiment Classification
+ASC, Aspect Sentiment Classification
+APC, Aspect Polarity Classification
+ATE, Aspect Term Extraction
+ACC, Accuracy
+NLP, Natural Language Processing
+TLS, Transport Layer Security
+FR, Frankfurter Rundschau
+SZ, Süddeutsche Zeitung
+FAZ, Frankfurter Allgemeine Zeitung
+taz, Die Tageszeitung
+LSA, Local Sentiment Aggregation [@He2021]
+LCF, Local Context Focus [@Zeng2019]
+LM, Language Model
+BERT, Bidirectional Encoder Representations from Transformers [@Devlin2018]
+PLM, Pre-trained Language Model
+GloVe, Global Vectors [@Pennington2014]
+ELMo, Embeddings from Language Model [@Peters2018]
+DBMDZ, MDZ Digital Library team at the Bavarian State Library
+CDU, Christian Democratic Union
+SPD, Social-Democratic Party of Germany
+FDP, Free Democratic Party
